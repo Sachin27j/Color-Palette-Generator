@@ -1,0 +1,16 @@
+/.env
+/activate
+/activate.bat
+/Activate.ps1
+/deactivate.bat
+/dotenv.exe
+/flask.exe
+/normalizer.exe
+/openai.exe
+/pip.exe
+/pip3.10.exe
+/pip3.exe
+/python.exe
+/pythonw.exe
+/tqdm.exe
+/__pycache__
